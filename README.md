@@ -17,7 +17,7 @@ This project is based on Arduino and focuses on automating lighting systems usin
 - Reduces manual effort and energy wastage
 
 ## 📂 Files
-- [LAMP__PROTECTOR.ino](LAMP__PROTECTOR.ino)
+- [LAMP___PROTECTOR.ino](LAMP___PROTECTOR.ino)
 
 ## 🚀 Working Principle
 1. LDR senses surrounding light intensity  
