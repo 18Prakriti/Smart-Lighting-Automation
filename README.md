@@ -27,9 +27,11 @@ This project is based on Arduino and focuses on automating lighting systems usin
 4. Protection system prevents damage during abnormal conditions  
 
 ## 📸 Project Images
-![Setup](Smart-Lighting-Automation/setup.jpg)
-![Circuit](Smart-Lighting-Automation/circuit.jpg)
-![Working](Smart-Lighting-Automation/working.mp4)
+![Setup](setup.jpg)
+![Circuit](circuit.jpg)
+## 🎥 Working Video
+[▶️ Watch Video](working.mp4)
+
 ## 🎯 Future Improvements
 - IoT-based remote control
 - Mobile app integration
